@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "6cf99eeea6a53392",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b9d60f7d3cb5b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43aace500eaa7ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCINOV8/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "715785e2f244b267",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b50cd672623d2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e82b821d913f8d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5542a61267a74028",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b15a98465dd07f0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a984c66c8c37997",
+    "type": "split",
+    "children": [
+      {
+        "id": "de7581a7ed22e6d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef36afe201c24c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CCINOV8/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test"
+            }
+          },
+          {
+            "id": "ece50dc284c42fed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CCINOV8/Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test"
+            }
+          },
+          {
+            "id": "cbb0a7d3b3d1d9c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "748b45ca4ece9a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CCINOV8/Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "43aace500eaa7ae5",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "CCINOV8/Test.md",
+    "CCINOV8"
+  ]
+}
