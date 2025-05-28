@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16b9d60f7d3cb5b7",
+        "id": "acf1dba2e7a941d4",
         "type": "tabs",
         "children": [
           {
-            "id": "43aace500eaa7ae5",
+            "id": "7e0369f9f157381a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCINOV8/Test.md",
+                "file": "CCINOV8/Startup Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Startup Idea"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a984c66c8c37997",
@@ -168,10 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43aace500eaa7ae5",
+  "active": "7e0369f9f157381a",
   "lastOpenFiles": [
+    "Pasted image 20250528103405.png",
+    "Pasted image 20250528103310.png",
+    "CCINOV8/General.md",
+    "CCINOV8/Startup Idea.md",
+    "[CCINOV8].md",
+    "[[CCINOV8].md",
+    "TYest.md",
+    "CCINOV8/Img/Pasted image 20250528090220.png",
+    "CCINOV8/Img/Pasted image 20250528090113.png",
+    "CCINOV8/Img",
+    "Pasted image 20250528084751.png",
     "Welcome.md",
-    "CCINOV8/Test.md",
     "CCINOV8"
   ]
 }
