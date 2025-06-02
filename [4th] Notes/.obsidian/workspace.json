@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bae6c96cf91f430c",
+        "id": "4532deb7c98f8c75",
         "type": "tabs",
         "children": [
           {
-            "id": "1e9b59d34bf7f808",
+            "id": "a306844c81fb1eec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSSECDV/General.md",
+                "file": "LCFILIB/General.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a984c66c8c37997",
@@ -169,23 +170,31 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1e9b59d34bf7f808",
+  "active": "a306844c81fb1eec",
   "lastOpenFiles": [
+    "LCFILIB/Assignment.md",
+    "LCFILIB/General.md",
+    "LCFILIB/Img/image1.png",
+    "image1.png",
+    "LCFILIB/Img",
+    "LCFILIB",
+    "Notion",
+    "SOLLDV1/General.md",
+    "SOLLDV1/Assignment.md",
+    "CSSECDV/General.md",
+    "SOLLDV1/Img/image9.png",
+    "SOLLDV1/Img/image8.png",
+    "SOLLDV1/Img/image4.png",
+    "SOLLDV1/Img/image1.png",
+    "SOLLDV1/Img/image3.png",
+    "SOLLDV1/Img/image10.png",
+    "SOLLDV1/Img/image7.png",
+    "SOLLDV1/Img/image2.png",
+    "SOLLDV1/Img",
+    "SOLLDV1/Img",
+    "SOLLDV1",
     "image1.md",
-    "CSSECDV/General.md",
-    "CSSECDV/General.md",
-    "CSSECDV/Img/image3.png",
-    "CSSECDV/Img/image4.png",
-    "CSSECDV/Img/image10.png",
-    "CSSECDV/Img/image8.png",
-    "CSSECDV/Img/image9.png",
-    "CSSECDV/Img/image2.png",
-    "CSSECDV/Img/image7.png",
-    "CSSECDV/Img/image1.png",
-    "CSSECDV/Img/image11.png",
-    "CSSECDV/Img/image6.png",
     "CSSECDV/Img",
-    "HTML import",
     "image7.md",
     "image3.md",
     "CSSECDV",
@@ -198,7 +207,6 @@
     "[[CCINOV8].md",
     "TYest.md",
     "CCINOV8/Img",
-    "Welcome.md",
-    "CCINOV8"
+    "Welcome.md"
   ]
 }

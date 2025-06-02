@@ -18,7 +18,7 @@ What is Information Security?
 
 Key Concepts
 
-![](image5.png)
+![](CSSECDV/Img/image5.png)
 
 This will have trade-offs. For example, I am a depositor of a bank, I dont care about Confidentiality gusto ko lang ng availability para kahit anong oras pwede ako makapag withdraw at lalo na ang Integrity, sigurado na tama ung mga nababawas at pumapasok.
 
@@ -129,7 +129,7 @@ Risk
 - Severity of impact
 - The probability that a particular threat directed towards a specific vulnerability will occur.
 
-![](image6.png)
+![](CSSECDV/Img/image6.png)
 
 Risk = likelihood x impact
 
@@ -152,14 +152,14 @@ Control
 - This can be detective threats before they materialize.
 - This can be corrective through the defense-in-depth.
 
-// defense-in-depth: layer by layer of defense![](image11.png)
+// defense-in-depth: layer by layer of defense![](CSSECDV/Img/image11.png)
 
-![](image1.png)
+![](CSSECDV/Img/image1.png)
 
 Software Engineering
 
 - The process of solving customers’ problems by the systematic development and evolution of large, high-quality software systems within cost, time and other constraints.
-- Triple constraints: ![](image7.png)
+- Triple constraints: ![](CSSECDV/Img/image7.png)
 
 - Challenges:
 
@@ -215,7 +215,7 @@ Model- View-Controller
 - This acts as the mediator between the Model and the View
 - Apart from processing, it should contain code needed to protect the application from threats.
 
-![](image2.png)
+![](CSSECDV/Img/image2.png)
 
 ========================================================================
 
@@ -446,7 +446,7 @@ Threat Model
 
 - Awareness of compliance and regulatory requirements
 
-- PCI DSS[[a]](#cmnt1)
+- PCI DSS
 
 - Mature SDLC process
 
@@ -550,9 +550,9 @@ Importance in Secure Web Development
 - Identifying unsanitized inputs that may lead to vulnerabilities like SQL Injection or XSS.
 - Structuring security protocols around vulnerable and sensitive data interactions.
 
-![](image9.png)
+![](CSSECDV/Img/image9.png)
 
-![](image8.png)
+![](CSSECDV/Img/image8.png)
 
 Trust Boundaries
 
@@ -828,7 +828,7 @@ Identifying Attack Surfaces
 
 Average Ranking
 
-![](image10.png)
+![](CSSECDV/Img/image10.png)
 
 Probability x Impact Ranking
 
@@ -836,7 +836,7 @@ Probability x Impact Ranking
 - Typical in Risk Management calculations
 - Organizations use the following formula
 
-![](image4.png)![](image3.png)
+![](CSSECDV/Img/image4.png)![](CSSECDV/Img/image3.png)
 
 Key Components
 
