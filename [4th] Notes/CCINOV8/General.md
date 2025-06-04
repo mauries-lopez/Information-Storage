@@ -220,3 +220,25 @@ Focused on problems and solutions as key foundational elements for a startup
 	- Ang point nito kapag natamaan natin ung isang persona na loyal customer, may possibility na pwede niya ipag kalat ung product. 
 	- if too specific ito, baka ung business mag overfit sa mga persona na ito.
 6. Next 10 Customers
+
+
+---
+**The 3 Key Steps of Successful Business Model Validation**
+1. Identify and track your assumptions with the LCM
+2. Test your assumptions in the filed with customers and pivot if your model is wrong
+3. Demonstrate that you have gained market traction using feedback from actual customers
+
+**Validation Process**
+1. Find a Problem
+2. Nail the Pain
+	1. Primary Market Research (Validating)
+3. Nail the Solution
+	1. Come up with MVP (Prototype/Visualization) to test your idea
+4. Nail the Go-to-Market Strategy
+	1. Data Gathering
+		1. Find out the prolems
+5. Nail the Business Model
+	1. Use the facts discovered to understand the costs involved and validate the revenue model for the business
+6. Pivot
+
+

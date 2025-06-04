@@ -4,7 +4,7 @@
 - PowerPoints
 	- [[CCINOV8] Group2 - Google Docs](https://docs.google.com/document/d/1C5dV_l63gUzVBo9izdIGnIiMU7J12jbZDIvROc3POdE/edit?tab=t.0)
 
-Feedback:
+Feedback #1:
 - Paying Customers? 
 	- DepEd (convince there is a problem.. Paano mo sila maiinterview.. What are the existing alternatives..)
 	- NGOs
@@ -14,12 +14,8 @@ Feedback:
 - Distribution Channels? 
 - If Grade 1 - 5, pwede sa Grade 1 na agad (start at a young age)
 
-Questions: 
-- Can we tweak our target market from children to teachers?
-	- Concerns:
-		- Data collection from children is not easy. I assume need pa ng parent's permission to have their child participate sa survey.
-- As much as possible primary source po ba dapat or secondary source can be used if sakaling mahirap maka access sa mga target market?
+Feedback #2:
 - 
 
-![[Pasted image 20250528103310.png]]
-![[Pasted image 20250528103405.png]]
+
+
