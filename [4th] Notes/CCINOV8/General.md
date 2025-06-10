@@ -33,7 +33,7 @@
 
 ### **Startup**
 - A business; built to grow extremely rapidly
-- A temporary organisation designed to search for a repeatable and scalable solution to an existing problem.
+- A temporary organization designed to search for a repeatable and scalable solution to an existing problem.
 - Driven by advanced network technology
 - Is an innovative high-tech company
 - Strong growth and scalability potential
