@@ -2,36 +2,39 @@
 ![[Screenshot 2025-06-10 at 2.57.05 PM.png]]
 
 ## Key Building Blocks
-1. Key Partners
-2. Key Activities
-3. Key Resources
-4. Value Propositions
-5. Customer Relationships
-6. Channels
-7. Customer Segments
-8. Cost Structure
-9. Revenue Streams
+- Create Value
+	1. Key Partners
+	2. Key Activities
+	3. Key Resources
+- Deliver Value
+	1. Value Propositions
+	2. Customer Relationships
+	3. Channels
+	4. Customer Segments
+- Capture Value
+	1. Cost Structure
+	2. Revenue Streams
 
-### Customer Segments
+### **Customer Segments**
 - These are all the people or organizations for which you're creating value.
 
-### Value Proposition
+### **Value Proposition**
 - For each of the customer segments, you have a specific value proposition.
 - These are the bundles of products and services that create value for your customers.
 
-### Channels
+### **Channels**
 - Channels described through which touch points are interacting with customers and delivering value.
 
 ### **Customer Relationships**
 - Outlines the types of relationships you're establishing with your customers and how you're acquiring and retaining them 
 
-### **Revene Stream
+### **Revenue Stream**
 - Pricing mechanisms through which your business model captures are documented in here
 
 ### **Key Resources**
 - Show which assets are indispensable in your business model so you can describe the infrastructure you need to create, deliver, and capture value.
 
-### Key Activity
+### **Key Activity**
 - Show which things you need to be able to perform well.
 
 ### **Key Partners**
@@ -79,6 +82,7 @@
 ---
 # **Lean Canvas Model**
 *Helps startup founders mitigate risk and uncertainty associated with the product inception*
+- Primarily focused on problems and solutions as key foundational elements for a startup
 
 Key Difference of Lean Canvas Model from the Business Canvas Model is its problem-solution oriented approach and focus on the customer.
 - Changes:
@@ -167,20 +171,20 @@ Example:
 	- There is an existing product and come up with a new different product.
 - Incremental
 	- Minor change in exisiting product & process.
-	- Iphones
+		- Iphones
 - Architectural
 	- Changing of overall architecture of the product.
-	- Watches: analog to digital
+		- Watches: analog to digital
 - Component
 	- Changing one or more components of the product
-	- Wired mouse to a wireless mouse
+		- Wired mouse to a wireless mouse
 - Competence Enhancing
 	- Innovation made from existing knowledge; improves in terms of performance
 	- Incremental
-	- CPU
+		- CPU
 - Competence Destroying
 	- Innovation is made to make existing competencies obsolete
-	- Film-based camera to digital camera
+		- Film-based camera to digital camera
 - Product
 	- E-bikes
 - Process
@@ -219,6 +223,43 @@ Example:
 - It is about how to manage that technology in order to achieve superior value for the customer.
 - People who shift economic resources up the value chain.
 
+### **New Entry**
+- Offering a new product to an established or new market.
 
+### **Entrepreneurial Strategy**
+- The set of decisions, actions, and reactions that first generate, and then exploit over time, a new entry.
 
+### **Risk Reduction for New Entry Exploitation**
+- Market Scope Strategies
+	- Narrow-scope strategy: offering a small product range to a small number of customer groups
+	- Broad-scope strategy: offering a range of products many different market segments
+- Imitation Strategies
+	- Franchising: "proven formula"
+	- "Me-too" strategy: copying products that already exist
 
+### **Trends**
+- The start of a trend that lasts for a considerable period of time provides one of the greatest opportunities for a starting a new venture.
+
+### **Sources of New Ideas**
+- Consumers
+- Existing Products and Services
+- Distribution Channels
+- Government
+- Research and Development
+### **Methods of Generating New Ideas**
+- Focus Groups
+
+![[Pasted image 20250611064641.png]]
+
+### **Six Key Themes of Disciplined Entrepreneurship (DE)**
+1. Who is your customer
+2. What can you do for your customer?
+3. How does your customer acquire your product?
+4. How do you make money off your product?
+5. How do you Design & Build your product?
+6. How do you scale your business?
+
+### **What Makes for A Great Core?** 
+- Unique
+- Important
+- Grows
