@@ -14,8 +14,15 @@ Feedback #1:
 - Distribution Channels? 
 - If Grade 1 - 5, pwede sa Grade 1 na agad (start at a young age)
 
-Feedback #2:
-- 
+
+**If gagawa ng persona, dapat may story kung bakit gagamitin ung product namin.** 
+
+Feedback:
+- Customer Segments: be more specific, anong subject ang ituturo? ano ung subject ng story?
+- Decision Making Unit: DepEd
+- Veto Power?
+	- Ang example nito is kung sino nag babayad ng cellphone natin? ang Parents.
+	- In our project, ano ang magiging role ng DepEd, teachers, students. Dapat macoconvince natin na gagamitin nila ung app.
 
 
 

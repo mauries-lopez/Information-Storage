@@ -240,5 +240,8 @@ Focused on problems and solutions as key foundational elements for a startup
 5. Nail the Business Model
 	1. Use the facts discovered to understand the costs involved and validate the revenue model for the business
 6. Pivot
-
-
+---
+**How does your customer acquire your product?**
+- Determine Decision-Making-Unit (DMU)
+	- People who will be involved when your product or service is acquired.
+		- DepEd
