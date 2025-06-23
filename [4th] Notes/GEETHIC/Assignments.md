@@ -51,3 +51,4 @@ When we ask whether the premises support the conclusions, we are asking whether 
 
 **Topic**: R.H Bill
 **Issue**: Whether or not R.H. Law morally acceptable in the Philippines?
+

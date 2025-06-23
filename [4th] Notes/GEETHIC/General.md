@@ -158,3 +158,55 @@ Philosopher Paul Taylor suggests that there is yet another risk in taking the ea
 	- The view that moral utterances are neither true nor false but are instead expressions of emotions or attitudes.
 	- You believe that despite what your statement seems to mean, you are simply expressing your emotions.
 	- You are not stating a fact; you are merely emoting and possibly trying to influence someone's behavior.
+
+### House MD
+- Dr. House said "Humanity is overrated"
+	- Humans lie a lot. "If we dont talk to them, they cant lie to us and we cant lie to them"
+	- They became doctors to treat illnesses not treating patients.
+- "You cant always get what you want" by Jagger?
+- "Truth begins in lies"
+
+## **The Power of Moral Theories**
+- Moral Theory
+	- An explanation of what makes an action right or what makes a person or thing good.
+	- Moral Theories concerned with the goodness of persons or things are known as **"Theories of Value"**
+	- Moral Theories concerned with the rightness or wrongness of actions are called "**Theories of Obligation**"
+- Consequentialist Theory
+	- A theory asserting that what makes an action right is its consequences.
+	- The rightness of an action depends on the amount of good it produces.
+	- Several Consequentialist Theories
+		- Utilitarianism
+			- A theory asserting that the morally right action is the one that produces the most favorable balance of good over evil, everyone considered.
+			- *The right thing to do is whatever brings the most happiness or good to the most people*
+		- Act-Utilitarianism
+			- A utilitarian theory asserting that the morally right action is the one that directly produces the most favorable balance of good over evil, everyone considered.
+			- Rules are irrelevant to this calculation
+			- *You should choose the action that, in that specific situation, brings the most happiness or good to the most people*
+		- Rule-utilitarianism
+			- A utilitarian theory asserting that the morally right action is the one covered by a rule that if generally followed would produce the most favorable balance of good over evil, everyone considered.
+			- *You should follow rules that, if everyone followed them, would lead to the most oeverall good or happiness*
+				- *Dont Lie*: *Even if lying in a certain situation might help someone, rule-utilitarianism says it’s better to stick to the rule, because if everyone lied whenever it felt useful, trust in society would break down — which causes more harm in the long run.*
+		- Ethical Egoism
+			- A theory asserting that the morally right action is the one that produces the most favorable balance of good over evil for oneself.
+			- *You shoud look out for your own well-being first*
+- Nonconsequentialist Theory
+	- A theory asserting that the rightness of an action does not depend on its consequences.'
+	- Primary concern is the **kind of action** in question.
+	- Several Nonconsequentialist Theories
+		- Categorical Imperative
+			- An imperative that we should follow regardless of our particular wants and needs; also, the principle that defines Kant's ethical system.
+			- *Only do something if you'd be okay with everyone else doing the same thing*
+		- Kant's theory
+			- A theory asserting that the morally right action is the one done in accordance with the categorical imperative.
+			- *Doing the right thing means following moral rules*
+			- *You should do the right thing just because it's the right thing not because it's easy, feels good, or helps you*
+		- Natural Law Theory
+			- A theory asserting that the morally right action is the one that follows the dictates of nature.
+			- *The right thing to do is what agrees with human nature, what we were naturally meant to do. (e.g. preserving life, creating families, telling the truth, helping others)*
+		- Divine Command Theory
+			- A theory asserting that the morally right action is the one that God commands.
+			- *The right thing to do is whatever God commands*
+- Moral Criteria of Adequacy
+	1. Consistency with considered judgements
+	2. Consistency with our moral experiences
+	3. Usefulness in moral problem solving
