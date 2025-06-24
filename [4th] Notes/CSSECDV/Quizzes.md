@@ -1,0 +1,114 @@
+## Quiz #1
+- Which of the following is a primary risk associated with a breach of Integrity?
+	- Data corruption and fraud
+- Which of the following is an example of "What you know" authentication?
+	- Password
+- Which of the following is an example of "What you have" authentication?
+	- Security token
+- Which of the following is a risk associated with violating Confidentiality?
+	- Unauthorized access
+- Which of the following best describes the relationship between Authentication and Authorization?
+	- Authentication precedes Authorization
+- What is the definition of Risk?
+	- Severity of impact
+- What is the core principle behind the Model-View-Controller architecture
+	- Separate the application logic from the user interface
+- What is the primary responsibility of the Model in MVC?
+	- Encapsulate data and application logic
+- What is a Software Development Life Cycle (SDLC)?
+	- Sequence of steps followed to build software products
+- What does the "Fail Securely" principle emphasize?
+	- Gracefully handling security failures to minimize impact
+- What is the core idea behind the "Secure Defaults" principle?
+	- Default settings should be highly secure and enabled by default
+- What is "Defense in Depth" ?
+	- A layered approach to application security
+- What is the primary purpose of Documentation Requirements in secure software development?
+	- Ensure transparency, compliance, and maintainability
+- What is the primary benefit of using consistent Naming Conventions in secure software development?
+	- Reduce security risks such as confusion and accidental exposure of data
+- Which of the following is not typically covered in Security Documentation?
+	- Marketing plans
+
+## Quiz #2
+- A threat model document may be considered a valid evidence in a court proceeding
+	- True
+- Threat modeling can be performed early in the SDLC
+	- True
+- The output of threat modeling is a good software.
+	- False
+- Threat modeling should only be done once in a software development project.
+	- False
+- Which steps are under the _Model_ phase in threat modeling? Select all that apply.
+	- Decompose the application
+	- Identify threats and vulnerabilities
+- What should be the correct symbol to use for the **Web Application** element?
+	- Circle
+- What should be the correct symbol to use for the **Authorization Module** element?
+	- Circle
+- What should be the correct symbol to use for the **Client Browser** element?
+	- Rectangle
+
+## Quiz #3
+- Passwords are considered as which form of authentication?
+	- What you know
+- A weak password policy can lead to known attacks such as _____.
+	- Brute Force
+- Biometrics are considered as which form of authentication?
+	- What you are
+- This is the process of verification that an individual is who it claims it to be.
+	- Authentication
+- Having an ID Card is considered as which form of authentication?
+	- What you have
+- Which is an example of a correct error message during authentication failure?
+	- Invalid username and/or password
+- Authentication in web applications is commonly performed by submitting a username and password.
+	- True
+- Cryptography is used to store passwords securely.
+	- True
+- Letting users change their password without re-authentication is bad practice.
+	- True
+- Web applications should never allow their users to have a means of recovering their account in cases wherein they forgot their password.
+	- False
+- Email addresses should never be used as user IDs.
+	- False
+- For handling user IDs, it is recommended that these should not be case sensitive.
+	- True
+- Authentication error messages should always indicate which information the user provided incorrectly (user ID, password, or both).
+	- False
+- An application that has a login page that only uses HTTP is acceptable.
+	- False
+- Assigned user IDs should never be used especially in the case of high-security applications.
+	- False
+
+## Quiz #4
+- Limiting change of network firewall settings to security administrators only is an example of which generic access control?
+	- Restricted Functions
+- This access control model is based on a particular role in the organization, wherein access to resources are given to the entity with the assigned role.
+	- Role-based Access Control
+- This access control model provides access to resources using predefined rules or policies.
+	- Mandatory Access Control
+- This access control model is based on context, such as time and location, which it uses to evaluate when providing access.
+	- Attribute-based Access Control
+- This access control model is very flexible as the owner decides who has access to a particular resource.
+	- Discretionary Access Control
+- Which among the following coding practices violate having centralized authorization routines?
+	- Writing the authorization code on every web page
+- It is a policy-driven mediation of access to resources.
+	- Access Control
+- Blocking UDP ports to prevent the use of BitTorrent is an example of which generic type of access control?
+	- Network Access Control
+- Restricting users from installing software on a school computer is an example of which generic type of access control?
+	- Host Access Control
+- Allowing concurrent sessions is a good authorization practice.
+	- False
+- Not returning all records that match a database query is an example of software access control.
+	- True
+- It is good practice to grant access to a user or entity before authentication.
+	- False
+- In mandatory access control, subjects are allowed to pass their authorization to other subjects.
+	- False
+- It is good authorization practice to provide dynamic reconfiguration of user interfaces based on the access rights of a user.
+	- True
+- Session timeouts are examples of software access control.
+	- True
